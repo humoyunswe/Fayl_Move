@@ -1,0 +1,22 @@
+2023-07-18 16:23:24,465 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.mp3 -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.mp3
+2023-07-18 16:23:24,465 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.mp3.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.mp3.txt
+2023-07-18 16:23:24,465 : INFO : Готово!
+2023-07-18 16:25:53,026 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.mp3 -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.mp3
+2023-07-18 16:25:53,026 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.mp3.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.mp3.txt
+2023-07-18 16:25:53,044 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.txt.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.txt.txt
+2023-07-18 16:25:53,044 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello1.mp3 -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello1.mp3
+2023-07-18 16:25:53,044 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\img1.bmp -> C:\Users\abuba\OneDrive\Рабочий стол\new\img1.bmp
+2023-07-18 16:25:53,044 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\name.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\name.txt
+2023-07-18 16:25:53,044 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\Text Document.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\Text Document.txt
+2023-07-18 16:25:53,044 : INFO : Готово!
+2023-07-18 16:30:00,678 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.mp3.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.mp3.txt
+2023-07-18 16:30:00,678 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.txt.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.txt.txt
+2023-07-18 16:30:00,678 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\name.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\name.txt
+2023-07-18 16:30:00,709 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\Text Document.txt -> C:\Users\abuba\OneDrive\Рабочий стол\new\Text Document.txt
+2023-07-18 16:30:00,709 : INFO : Готово!
+2023-07-18 16:30:40,781 : ERROR : Исходная папка не существует или не является директорией!
+2023-07-18 16:46:51,668 : INFO : Готово!
+2023-07-18 16:59:49,504 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello.mp3 -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello.mp3
+2023-07-18 16:59:49,504 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\hello1.mp3 -> C:\Users\abuba\OneDrive\Рабочий стол\new\hello1.mp3
+2023-07-18 16:59:49,504 : INFO : Переименовано: C:\Users\abuba\OneDrive\Рабочий стол\old\img1.bmp -> C:\Users\abuba\OneDrive\Рабочий стол\new\img1.bmp
+2023-07-18 16:59:49,504 : INFO : Готово!
